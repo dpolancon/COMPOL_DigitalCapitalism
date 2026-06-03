@@ -1,0 +1,374 @@
+JSTOR Citation List
+@comment{{ These records have been provided through JSTOR. http://www.jstor.org }}
+
+
+@inbook{10.2307/j.ctvckq9qb.1,
+ ISBN = {9781912656202},
+ URL = {http://www.jstor.org/stable/j.ctvckq9qb.1},
+ booktitle = {Digital Objects, Digital Subjects: Interdisciplinary Perspectives on Capitalism, Labour and Politics in the Age of Big Data},
+ pages = {i--ii},
+ publisher = {University of Westminster Press},
+ title = {Front Matter},
+ urldate = {2026-05-05},
+ year = {2019}
+}
+
+
+
+
+@inbook{10.2307/j.ctvckq9qb.2,
+ ISBN = {9781912656202},
+ URL = {http://www.jstor.org/stable/j.ctvckq9qb.2},
+ booktitle = {Digital Objects, Digital Subjects: Interdisciplinary Perspectives on Capitalism, Labour and Politics in the Age of Big Data},
+ pages = {iii--iv},
+ publisher = {University of Westminster Press},
+ title = {Table of Contents},
+ urldate = {2026-05-05},
+ year = {2019}
+}
+
+
+
+
+@inbook{10.2307/j.ctvckq9qb.3,
+ ISBN = {9781912656202},
+ URL = {http://www.jstor.org/stable/j.ctvckq9qb.3},
+ abstract = {In May 2017, The Economist’s front cover headlined a feature on Big Data titled ‘ The World’s Most Valuable Resource’. The feature argued that data is the world’s new oil. Data would drive development in the twenty-first century in the same way as oil transformed the world’s economy and society in the early twentieth century. Such popular discourses claim that Big Data enables new ways of generating knowledge that will lead to innovative and creative possibilities. In the same month as The Economist ran this feature on Big Data, we organised the interdisciplinary symposium ‘Digital Objects, Digital Subjects: Activism, Research},
+ author = {Christian Fuchs and David Chandler},
+ booktitle = {Digital Objects, Digital Subjects: Interdisciplinary Perspectives on Capitalism, Labour and Politics in the Age of Big Data},
+ pages = {1--20},
+ publisher = {University of Westminster Press},
+ title = {Introduction},
+ urldate = {2026-05-05},
+ year = {2019}
+}
+
+
+
+
+@inbook{10.2307/j.ctvckq9qb.4,
+ ISBN = {9781912656202},
+ URL = {http://www.jstor.org/stable/j.ctvckq9qb.4},
+ abstract = {Digital governance is a new mode of governance that is highly dependent on the application of new technologies for data analysis. These have been developed across contemporary society, from the technologies of the quantified self to the application of data analysis in schools and businesses, to the development of new sensing capacities through international collaborative initiatives. The latter include the United Nations’ Global Pulse, established by the UN Secretary-General to research and coordinate the use of Big Data for development;¹ the World Bank’s Open Data for Resilience initiative (OpenDRI), designed to see the emergence of natural hazards and the impacts},
+ author = {David Chandler},
+ booktitle = {Digital Objects, Digital Subjects: Interdisciplinary Perspectives on Capitalism, Labour and Politics in the Age of Big Data},
+ pages = {23--42},
+ publisher = {University of Westminster Press},
+ title = {Digital Governance in the Anthropocene: The Rise of the Correlational Machine},
+ urldate = {2026-05-05},
+ year = {2019}
+}
+
+
+
+
+@inbook{10.2307/j.ctvckq9qb.5,
+ ISBN = {9781912656202},
+ URL = {http://www.jstor.org/stable/j.ctvckq9qb.5},
+ abstract = {David Chandler’s chapter studies changes of onto-epistemology and governance in the age of digitality and Big Data. He argues that the logic of dualism, reductionism, linear causation and mechanic determinism has advanced problems of society and is unable to give a proper response to the world’s complexity. The implication is that we need a different kind of onto-epistemology that moves beyond dualism and enables new forms of governing society and the digital. David Chandler argues in this volume that the ‘ontopolitical assumptions of digital governance can be usefully grasped in terms of actor network theory’, and in this context he},
+ author = {Christian Fuchs},
+ booktitle = {Digital Objects, Digital Subjects: Interdisciplinary Perspectives on Capitalism, Labour and Politics in the Age of Big Data},
+ pages = {43--52},
+ publisher = {University of Westminster Press},
+ title = {Beyond Big Data Capitalism, Towards Dialectical Digital Modernity: Reflections on David Chandler’s Chapter},
+ urldate = {2026-05-05},
+ year = {2019}
+}
+
+
+
+
+@inbook{10.2307/j.ctvckq9qb.6,
+ ISBN = {9781912656202},
+ URL = {http://www.jstor.org/stable/j.ctvckq9qb.6},
+ abstract = {Computers operate based on digital data. They convert information into streams of bits (zeros and ones) in order to store, process and transmit it. The logic of capitalist and bureaucratic administration has driven the development of computing. As a result of political-economic interests and needs and technological development, the volume, velocity and variety of data (Kitchin 2014, 68) have increased to a degree where quantity turns into a new quality. In short, we have seen the rise of Big Data. Increasingly, algorithms and digital machines are generating, collecting, storing, processing and assessing Big Data, and making decisions that sideline humans},
+ author = {Christian Fuchs},
+ booktitle = {Digital Objects, Digital Subjects: Interdisciplinary Perspectives on Capitalism, Labour and Politics in the Age of Big Data},
+ pages = {53--72},
+ publisher = {University of Westminster Press},
+ title = {Karl Marx in the Age of Big Data Capitalism},
+ urldate = {2026-05-05},
+ year = {2019}
+}
+
+
+
+
+@inbook{10.2307/j.ctvckq9qb.7,
+ ISBN = {9781912656202},
+ URL = {http://www.jstor.org/stable/j.ctvckq9qb.7},
+ abstract = {In his chapter, Christian sets out a powerful overall analytic of the relevance of a critical theory approach for understanding and engaging with the context and alternatives to Big Data capitalism. Here, Big Data plays a fundamental role in the surveillance society, which potentially constitutes a new form of totalitarian controlling ideology: ‘The digital machine that organises Big Data creates a new form of reification that destroys qualities, dialectics, critique, and non-instrumental action.’ Against this dehumanising ideological control, Christian argues that we require a Marxist critical humanism to put the human back at the centre of the world. I shall},
+ author = {David Chandler},
+ booktitle = {Digital Objects, Digital Subjects: Interdisciplinary Perspectives on Capitalism, Labour and Politics in the Age of Big Data},
+ pages = {73--80},
+ publisher = {University of Westminster Press},
+ title = {What is at Stake in the Critique of Big Data?: Reflections on Christian Fuchs’s Chapter},
+ urldate = {2026-05-05},
+ year = {2019}
+}
+
+
+
+
+@inbook{10.2307/j.ctvckq9qb.8,
+ ISBN = {9781912656202},
+ URL = {http://www.jstor.org/stable/j.ctvckq9qb.8},
+ abstract = {Posing a connection between philosophy and biography is an exercise fraught with predicaments, not least of which is the determinist connection one risks between life and thought.¹ Keeping this proviso in mind, if we can nevertheless assume that ontological statements are somehow associated with the subject positions of their authors, then it bears insisting that assessments of theoretical paradigms not forego analysis of authors’ motivations. Appraisals of theory ought not shrink from examining the desires a theory expresses, the cognitive or analytical needs it aims to fulfil, and the reasons it might pursue certain lines of inquiry and not others.},
+ author = {Paul Rekret},
+ booktitle = {Digital Objects, Digital Subjects: Interdisciplinary Perspectives on Capitalism, Labour and Politics in the Age of Big Data},
+ pages = {81--94},
+ publisher = {University of Westminster Press},
+ title = {Seeing Like a Cyborg?: The Innocence of Posthuman Knowledge},
+ urldate = {2026-05-05},
+ year = {2019}
+}
+
+
+
+
+@inbook{10.2307/j.ctvckq9qb.9,
+ ISBN = {9781912656202},
+ URL = {http://www.jstor.org/stable/j.ctvckq9qb.9},
+ abstract = {Paul Rekret explicitly intends to ‘take a step back to examine the parameters’ of posthuman thinking. He challenges the assumption that knowledge generated by posthuman theorising somehow straightforwardly or ‘innocently’ reflects the contemporary world. Instead, he treats posthumanism as a particular ‘ story’ produced in, and reproduced through, specific circumstances. He proposes that posthumanism might not emancipate us from the dilemmas which it addresses, so much as normalise the conditions of their production.In order to establish a critical distance from posthumanism, then, Rekret emphasises its contingency. There is good reason to suppose that his analysis will resonate with those},
+ author = {Robert Cowley},
+ booktitle = {Digital Objects, Digital Subjects: Interdisciplinary Perspectives on Capitalism, Labour and Politics in the Age of Big Data},
+ pages = {95--102},
+ publisher = {University of Westminster Press},
+ title = {Posthumanism as a Spectrum: Reflections on Paul Rekret’s Chapter},
+ urldate = {2026-05-05},
+ year = {2019}
+}
+
+
+
+
+@inbook{10.2307/j.ctvckq9qb.10,
+ ISBN = {9781912656202},
+ URL = {http://www.jstor.org/stable/j.ctvckq9qb.10},
+ abstract = {The intersection of the digital with our work and leisure, and the blurring of these two categories, has become an increasingly significant field of inquiry in Big Data capitalism. Digital labour studies – in which this nexus is explored – is fast becoming a field of its own, incorporating analyses of workers in the platform-mediated gig economy, users of social media, social media influencers, and the ways in which various work practices are being re-shaped by digital technologies. The importance of this field lies in how the dynamics it traces – such as the centrality of immaterial/affective labour, precarious and exploited work conditions},
+ author = {Kylie Jarrett},
+ booktitle = {Digital Objects, Digital Subjects: Interdisciplinary Perspectives on Capitalism, Labour and Politics in the Age of Big Data},
+ pages = {103--116},
+ publisher = {University of Westminster Press},
+ title = {Through the Reproductive Lens: Labour and Struggle at the Intersection of Culture and Economy},
+ urldate = {2026-05-05},
+ year = {2019}
+}
+
+
+
+
+@inbook{10.2307/j.ctvckq9qb.11,
+ ISBN = {9781912656202},
+ URL = {http://www.jstor.org/stable/j.ctvckq9qb.11},
+ abstract = {On 2 November 2017 two of New York City’s local digital news sites, The Gothamist and DNAinfom, were shut down by owner Joe Ricketts. All articles and information generated since 2009 vanished from the sites – to be archived elsewhere in less accessible format. 115 people lost their jobs. The destruction of the news companies along with the documentation of local history was instigated by Ricketts as an unsubtle response to an event just one week earlier: when reporters at DNAinfo and Gothamist had voted to unionise. Twitter exploded as another source of local news disappeared and union organising was dealt},
+ author = {Joanna Boehnert},
+ booktitle = {Digital Objects, Digital Subjects: Interdisciplinary Perspectives on Capitalism, Labour and Politics in the Age of Big Data},
+ pages = {117--124},
+ publisher = {University of Westminster Press},
+ title = {Contradictions in the Twitter Social Factory: Reflections on Kylie Jarrett’s Chapter},
+ urldate = {2026-05-05},
+ year = {2019}
+}
+
+
+
+
+@inbook{10.2307/j.ctvckq9qb.12,
+ ISBN = {9781912656202},
+ URL = {http://www.jstor.org/stable/j.ctvckq9qb.12},
+ abstract = {Digitalised methods to calculate an increasing range of activities and expression at work are evidence that management aims to control what has been called affective (Hardt 1999, Dowling 2007) and emotional (Hochschild 2012 [1983]; Brook 2009, 2013) labour. Emotional and affective labour are, of course, neither new nor limited to digitalised work, and the long history of undervalued labour has been observed and critiqued by several feminist scholars over time. What is new is the trend in uses of technology to control areas of unseen labour through newly digitalised workplaces, with the use of location and sensory devices that threaten},
+ author = {Phoebe V. Moore},
+ booktitle = {Digital Objects, Digital Subjects: Interdisciplinary Perspectives on Capitalism, Labour and Politics in the Age of Big Data},
+ pages = {125--144},
+ publisher = {University of Westminster Press},
+ title = {E(a)ffective Precarity, Control and Resistance in the Digitalised Workplace},
+ urldate = {2026-05-05},
+ year = {2019}
+}
+
+
+
+
+@inbook{10.2307/j.ctvckq9qb.13,
+ ISBN = {9781912656202},
+ URL = {http://www.jstor.org/stable/j.ctvckq9qb.13},
+ abstract = {The UK government recently commissioned a report looking into the question of wellbeing at work, in particular the impact of mental ill health on the UK economy. The ‘Thriving at Work’ report, authored by a former chairman of HBOS insurance and by the chief executive of the mental health charity ‘ Mind’, estimated the annual cost of poor mental health to UK businesses at £ 99bn, and stated that 300,000 people lose their jobs each year due to mental health issues (The Guardian 2017). Although informative and well-received, the report sadly stands out for lack of critical engagement with an},
+ author = {Elisabetta Brighi},
+ booktitle = {Digital Objects, Digital Subjects: Interdisciplinary Perspectives on Capitalism, Labour and Politics in the Age of Big Data},
+ pages = {145--150},
+ publisher = {University of Westminster Press},
+ title = {Beyond Repression: Reflections on Phoebe Moore’s Chapter},
+ urldate = {2026-05-05},
+ year = {2019}
+}
+
+
+
+
+@inbook{10.2307/j.ctvckq9qb.14,
+ ISBN = {9781912656202},
+ URL = {http://www.jstor.org/stable/j.ctvckq9qb.14},
+ abstract = {Since the arrival of the ‘digital revolution’, we have been repetitively reminded about the emancipatory power of technological objects. Apple’s iconic ‘1984’ commercial was a good example, showcasing that their new Macintosh computer could liberate human subjectivities from the tyranny of Big Brother. However, more than 30 years later, when the iPhone turns ten years old in 2017, we look back and see a very different, even opposite picture: digital objects such as smartphones have not only failed to deliver their emancipatory promise (Qiu 2016a), but have created instead new conditions of enslavement, so much so that I would contend},
+ author = {Jack Linchuan Qiu},
+ booktitle = {Digital Objects, Digital Subjects: Interdisciplinary Perspectives on Capitalism, Labour and Politics in the Age of Big Data},
+ pages = {151--164},
+ publisher = {University of Westminster Press},
+ title = {Goodbye iSlave: Making Alternative Subjects Through Digital Objects},
+ urldate = {2026-05-05},
+ year = {2019}
+}
+
+
+
+
+@inbook{10.2307/j.ctvckq9qb.15,
+ ISBN = {9781912656202},
+ URL = {http://www.jstor.org/stable/j.ctvckq9qb.15},
+ abstract = {Jack Qiu’s chapter, like his book Goodbye iSlave: A Manifesto for Digital Abolition (Qiu 2016), is a powerful exposé of some of the appalling labour conditions which lie behind the glitz of the ‘digital revolution’, and of the resistance to these conditions by those who suffer them. Equally powerful is his comparison of the position which Foxconn and Apple occupy in the globalised capitalism of the early twenty-first century, with that occupied by the Atlantic slave trade in the international capitalism of the seventeenth and eighteenth century. Given the huge social, political and, indeed, moral importance of the issues he},
+ author = {Peter Goodwin},
+ booktitle = {Digital Objects, Digital Subjects: Interdisciplinary Perspectives on Capitalism, Labour and Politics in the Age of Big Data},
+ pages = {165--168},
+ publisher = {University of Westminster Press},
+ title = {Wage-Workers, Not Slaves: Reflections on Jack Qiu’s Chapter},
+ urldate = {2026-05-05},
+ year = {2019}
+}
+
+
+
+
+@inbook{10.2307/j.ctvckq9qb.16,
+ ISBN = {9781912656202},
+ URL = {http://www.jstor.org/stable/j.ctvckq9qb.16},
+ abstract = {The questions posed for the symposium ‘Digital Objects, Digital Subjects: Activism, Research & Critique in the Age of Big Data Capitalism’ take up possibilities of digital activism and of critique in a digital age. What does digital mean as a qualifier of activism and condition of critique? On the one hand, this is obvious: we are talking about our current conditions of networked media, personalised mass communication and the production of the devices that support it; we are talking about Big Data, about the general setting of communicative capitalism. On the other hand, there is something that is rather less},
+ author = {Jodi Dean},
+ booktitle = {Digital Objects, Digital Subjects: Interdisciplinary Perspectives on Capitalism, Labour and Politics in the Age of Big Data},
+ pages = {171--182},
+ publisher = {University of Westminster Press},
+ title = {Critique or Collectivity?: Communicative Capitalism and the Subject of Politics},
+ urldate = {2026-05-05},
+ year = {2019}
+}
+
+
+
+
+@inbook{10.2307/j.ctvckq9qb.17,
+ ISBN = {9781912656202},
+ URL = {http://www.jstor.org/stable/j.ctvckq9qb.17},
+ abstract = {In Philosophy and Real Politics Raymond Geuss takes issue with ideal theories of politics. Ideal theories, he argues, start from a ‘few general principles’ that they posit as historically invariant (2008, 7). They explain and justify these principles and they then draw conclusions about how people ought to live and act. Missing from these theories is a reflection on what Geuss refers to as ‘contexts of action’, that is, historically situated conjunctures that affect human motivations and shape political actions (Geuss 2008, 9–11). Any responsible (and realist) theory, insists Geuss, must take these contexts of action into account. For},
+ author = {Paulina Tambakaki},
+ booktitle = {Digital Objects, Digital Subjects: Interdisciplinary Perspectives on Capitalism, Labour and Politics in the Age of Big Data},
+ pages = {183--186},
+ publisher = {University of Westminster Press},
+ title = {Subjects, Contexts and Modes of Critique: Reflections on Jodi Dean’s Chapter},
+ urldate = {2026-05-05},
+ year = {2019}
+}
+
+
+
+
+@inbook{10.2307/j.ctvckq9qb.18,
+ ISBN = {9781912656202},
+ URL = {http://www.jstor.org/stable/j.ctvckq9qb.18},
+ abstract = {To each generation its constitution, famously proposed Condorcet, arguing that the institutional system necessarily had to adapt to historical changes. To each generation its form of organisation, one could quip in response, witnessing the constant historical change that has invested the political party in the course of history. When one utters the word ‘party’, i. e. political party, the mind flies, at least for most people on the Left, to a very specific form of party, to what the French political sociologist Maurice Duverger (1959) called the ‘mass party’, the type of party that emerged at the height of the},
+ author = {Paolo Gerbaudo},
+ booktitle = {Digital Objects, Digital Subjects: Interdisciplinary Perspectives on Capitalism, Labour and Politics in the Age of Big Data},
+ pages = {187--198},
+ publisher = {University of Westminster Press},
+ title = {The Platform Party: The Transformation of Political Organisation in the Era of Big Data},
+ urldate = {2026-05-05},
+ year = {2019}
+}
+
+
+
+
+@inbook{10.2307/j.ctvckq9qb.19,
+ ISBN = {9781912656202},
+ URL = {http://www.jstor.org/stable/j.ctvckq9qb.19},
+ abstract = {Are political parties changing fundamentally in the digital age? In his contribution to this edited volume, Paolo Gerbaudo advances a compelling case that they are, focusing on parties across the Left-Right spectrum, like the Five Star Movement in Italy or Podemos in Spain. As a response to Gerbaudo’s argument, I would like to focus on two interrelated points: first, that the evolution of the political party form may be better explained by changes in communication technologies rather than by the influence of models of economic organisation; second, that the platform (or ‘digital’) parties described by Gerbaudo are also movement parties},
+ author = {Anastasia Kavada},
+ booktitle = {Digital Objects, Digital Subjects: Interdisciplinary Perspectives on Capitalism, Labour and Politics in the Age of Big Data},
+ pages = {199--204},
+ publisher = {University of Westminster Press},
+ title = {The Movement Party – Winning Elections and Transforming Democracy in a Digital Era: Reflections on Paolo Gerbaudo’s Chapter},
+ urldate = {2026-05-05},
+ year = {2019}
+}
+
+
+
+
+@inbook{10.2307/j.ctvckq9qb.20,
+ ISBN = {9781912656202},
+ URL = {http://www.jstor.org/stable/j.ctvckq9qb.20},
+ abstract = {In the debate over the impact of the digital on society, we are presented with the serious hypothesis that the worker, the producer, is transformed by the use of the digital machine, since we have recognised that digital technologies have profoundly modified the mode of production, as well as ways of knowing and communicating. The discussion of the psycho-political consequences of digital machines is so broad that it is just worth remembering it even though the results obtained by this research are highly problematic.They normally propose the passive subjection of the worker to the machine, a generalised alienation, the},
+ author = {Antonio Negri and Michele Ledda},
+ booktitle = {Digital Objects, Digital Subjects: Interdisciplinary Perspectives on Capitalism, Labour and Politics in the Age of Big Data},
+ pages = {205--214},
+ publisher = {University of Westminster Press},
+ title = {The Appropriation of Fixed Capital: A Metaphor?},
+ urldate = {2026-05-05},
+ year = {2019}
+}
+
+
+
+
+@inbook{10.2307/j.ctvckq9qb.21,
+ ISBN = {9781912656202},
+ URL = {http://www.jstor.org/stable/j.ctvckq9qb.21},
+ abstract = {In his essay ‘The Appropriation of Fixed Capital’, Toni Negri makes an argument for thinking about the role of technology in social struggles and in relation to alternatives to capitalism. He rejects technological determinism and technological pessimism. He engages with Marx’s concept of technology in the Grundrisse and Capital and applies a similar view to digital technologies.Autonomism has traditionally preferred readings of the Grundrisse over Capital because of the heavy focus on the latter in Stalinist readings of Marx. In this context, Negri stresses that the ‘ objectification of categories in Capital blocks action by revolutionary subjectivity’ (Negri 1991,},
+ author = {Christian Fuchs},
+ booktitle = {Digital Objects, Digital Subjects: Interdisciplinary Perspectives on Capitalism, Labour and Politics in the Age of Big Data},
+ pages = {215--222},
+ publisher = {University of Westminster Press},
+ title = {Appropriation of Digital Machines and Appropriation of Fixed Capital as the Real Appropriation of Social Being: Reflections on Toni Negri’s Chapter},
+ urldate = {2026-05-05},
+ year = {2019}
+}
+
+
+
+
+@inbook{10.2307/j.ctvckq9qb.22,
+ ISBN = {9781912656202},
+ URL = {http://www.jstor.org/stable/j.ctvckq9qb.22},
+ booktitle = {Digital Objects, Digital Subjects: Interdisciplinary Perspectives on Capitalism, Labour and Politics in the Age of Big Data},
+ pages = {223--226},
+ publisher = {University of Westminster Press},
+ title = {The Editors and the Contributors},
+ urldate = {2026-05-05},
+ year = {2019}
+}
+
+
+
+
+@inbook{10.2307/j.ctvckq9qb.23,
+ ISBN = {9781912656202},
+ URL = {http://www.jstor.org/stable/j.ctvckq9qb.23},
+ booktitle = {Digital Objects, Digital Subjects: Interdisciplinary Perspectives on Capitalism, Labour and Politics in the Age of Big Data},
+ pages = {227--242},
+ publisher = {University of Westminster Press},
+ title = {Index},
+ urldate = {2026-05-05},
+ year = {2019}
+}
+
+
+
+
+@inbook{10.2307/j.ctvckq9qb.24,
+ ISBN = {9781912656202},
+ URL = {http://www.jstor.org/stable/j.ctvckq9qb.24},
+ booktitle = {Digital Objects, Digital Subjects: Interdisciplinary Perspectives on Capitalism, Labour and Politics in the Age of Big Data},
+ pages = {243--243},
+ publisher = {University of Westminster Press},
+ title = {Back Matter},
+ urldate = {2026-05-05},
+ year = {2019}
+}

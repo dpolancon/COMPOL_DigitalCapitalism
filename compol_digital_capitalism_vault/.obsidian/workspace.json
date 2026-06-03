@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "9f9cad74238ce4d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "7df7c15ba084f23c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a2e9ceed6af9a46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20_Project_Notes/02_ConceptualFramework.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02_ConceptualFramework"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "65377f4e9d734bdb",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea000ed33dc3755a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f830b62ebd4c9245",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a793dadb5ee93784",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "59c8dceafb74e8cb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 558
+  },
+  "right": {
+    "id": "7cc27293821aa69b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1be3efdea593a46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "afc95a34fadef17f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Road_Map_Fixes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Road_Map_Fixes"
+            }
+          },
+          {
+            "id": "5aa2afc5f87dc3f9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Road_Map_Fixes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Road_Map_Fixes"
+            }
+          },
+          {
+            "id": "654effd59ddf8c16",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "eb10898f4536eac8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c12afc1d6b39b805",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Road_Map_Fixes.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Road_Map_Fixes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "1a2e9ceed6af9a46",
+  "lastOpenFiles": [
+    "20_Project_Notes/01_Introduction.md",
+    "20_Project_Notes/02_ConceptualFramework.md",
+    "10_Literature/PDF_001_ALVAREZ-FUENTES_ETAL_2024.md",
+    "10_Literature/PDF_068_Negri-AppropriationFixedCapital-2019.md",
+    "10_Literature/PDF_070_Rekret-SeeingLikeCyborg-2019.md",
+    "10_Literature/PDF_072_Tambakaki-SubjectsContextsModes-2019.md",
+    "10_Literature/PDF_029_LUNA_ETAL_2022_CHILE.md",
+    "README.md",
+    "10_Literature/~$RA_NotebookLM_Obsidian_Registry.xlsx",
+    "10_Literature/PDF_069_Qiu-GoodbyeiSlave-2019.md",
+    "10_Literature/PDF_067_Moore-EaffectivePrecarityControl-2019.md",
+    "10_Literature/PDF_065_Kavada-MovementParty-2019.md",
+    "10_Literature/PDF_064_Jarrett-ReproductiveLens-2019.md",
+    "10_Literature/PDF_062_Goodwin-WageWorkersSlaves-2019.md",
+    "10_Literature/PDF_054_Dean-CritiqueCollectivity-2019.md",
+    "10_Literature/PDF_053_Cowley-PosthumanismSpectrum-2019.md",
+    "10_Literature/PDF_050_Brighi-BeyondRepression-2019.md",
+    "10_Literature/PDF_049_Boehnert-ContradictionsTwitterSocial-2019.md",
+    "10_Literature/PDF_047_ZHAO_ETAL_2024.md",
+    "10_Literature/PDF_046_YANG_ETAL_2023.md",
+    "10_Literature/PDF_042_UNULU_2024.md",
+    "10_Literature/PDF_041_THORSON_ETAL_2019.md",
+    "10_Literature/PDF_039_SCHMOKEL_ETAL_2022.md",
+    "10_Literature/PDF_038_PENUCCI_2024.md",
+    "10_Literature/PDF_036_PACHECO_2024.md",
+    "10_Literature/PDF_032_OLOF-LARSSON_2020.md",
+    "10_Literature/PDF_031_NICHOLS_ETAL_2020.md",
+    "10_Literature/_legacy",
+    "81_Outputs/2026-06-02_Pass05_PreFlight_Executed.md.3e4444dcc879.tmp",
+    "81_Outputs/2026-06-02_PreFlight_Check.md.761ce823b97c.tmp",
+    "10_Literature/27C3C020",
+    "10_Literature/4093C020",
+    "10_Literature/C18FB020",
+    "10_Literature/836FB020",
+    "10_Literature/864FB020",
+    "10_Literature/RA_NotebookLM_Obsidian_Registry - copia.xlsx"
+  ]
+}

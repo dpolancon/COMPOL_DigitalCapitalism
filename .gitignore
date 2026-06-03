@@ -1,0 +1,16 @@
+﻿__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.obsidian/workspace*
+.obsidian/app.json
+.obsidian/core-plugins.json
+.ipynb_checkpoints/
+data/raw/*
+!data/raw/.gitkeep
+*.pdf
+!literature/pdfs/.gitkeep
+output/figures/*.png
+output/figures/*.jpg
+output/tables/*.csv

@@ -1,0 +1,1 @@
+"""NotebookLM automation pipeline for COMPOL Digital Capitalism project."""
