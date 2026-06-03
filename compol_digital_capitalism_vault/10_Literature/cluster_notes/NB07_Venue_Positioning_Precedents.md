@@ -1,0 +1,32 @@
+# Venue Positioning and Precedents
+
+## Cluster Definition
+Evaluates target journals, positioning precedents, and conceptual analogues for quantitative political communication research.
+
+## Synthesis of Sources
+The cluster of venue positioning and precedents in quantitative political communication research encompasses a wide range of studies that evaluate target journals, positioning precedents, and conceptual analogues. Greene and McMillan (2020) published in the *Journal of Elections, Public Opinion, and Parties*, establishing a precedent for using structural topic models (STM) to analyze election manifestos and link them to voter behavior. This study serves as a strong methodological precedent for Diego's paper, as it validates the application of unsupervised topic models to manifesto text and links them to voter behavior.
+
+Kangaslahti et al. (2026) published in *Political Analysis*, proposing a new topic modeling method called Online Tensor LDA (TLDA) that scales linearly to billions of documents. This study establishes a legitimating precedent for the use of advanced computational methods in top political methodology journals. The TLDA method is a competitor to standard LDA and large language models (LLMs) for text analysis, and its scalability and theoretical guarantees make it a viable alternative for large-scale political text analysis.
+
+Larsson (2020) published in *New Media & Society*, providing a longitudinal study of political party and citizen activity on Facebook. This study serves as a strong analogue/precedent for understanding platform dynamics and populist strategy, and its focus on platformization and populist communication makes it relevant to Diego's paper. Larsson et al. (2024) also published in *New Media & Society*, proposing a framework for comparing political actors' campaign strategies across social media platforms. This study provides a robust theoretical framework for understanding how platform affordances shape campaign calls to action, and its focus on manual content analysis makes it a complement to computational studies.
+
+Orchard and González-Bustamante (2022) published in *The International Journal of Press/Politics*, studying the determinants of political actors' media visibility in the Chilean elite press. This study serves as a foundational precedent for understanding Chilean media visibility prior to the 2019 rupture, and its focus on media visibility and power hierarchies makes it relevant to Diego's paper. Osnabrügge et al. (2023) published in *Political Analysis*, proposing a method for cross-domain topic classification for political texts. This study establishes a legitimating precedent for the use of supervised learning methods in political science, and its focus on cross-domain classification makes it relevant to Diego's paper.
+
+Pallister and Fitzpatrick (2023) published in *The International Journal of Press/Politics*, studying campaign messaging content across different media formats in Argentina. This study serves as an analogue/precedent for Latin American campaign communication research, and its focus on media convergence and policy content makes it relevant to Diego's paper. Wang (2023) published in *Political Analysis*, investigating the efficacy of using pretrained language models (PLMs) for supervised topic classification of political texts. This study establishes a legitimating precedent for the use of modern NLP methods in political science, and its focus on PLM fine-tuning makes it relevant to Diego's paper.
+
+Wirsching et al. (2025) published in *Political Analysis*, providing multilingual word embeddings for social scientists. This study serves as a legitimating precedent for the use of word embeddings in political science, and its focus on multilingual embeddings makes it relevant to Diego's paper. Licht (Forthcoming) published in *Political Analysis*, studying the efficacy of multilingual sentence embeddings for cross-lingual classification of political texts. This study establishes a methodological precedent for the use of multilingual sentence embeddings in political science, and its focus on cross-lingual analysis makes it relevant to Diego's paper.
+
+## Cross-References to Paper Notes
+- [[PDF_018_GREENE_ETAL_2022]] - Serves as a strong methodological precedent for using STM on election manifestos to track issue salience.
+- [[PDF_024_KANGASLAHTI_2026]] - Establishes a legitimating precedent for the use of advanced computational methods in top political methodology journals.
+- [[PDF_032_OLOF-LARSSON_2020]] - Provides a strong analogue/precedent for understanding platform dynamics and populist strategy.
+- [[PDF_033_OLOF-LARSSON_ETAL_2025]] - Offers a robust theoretical framework for understanding how platform affordances shape campaign calls to action.
+- [[PDF_034_ORCHARD_ETAL_2024]] - Serves as a foundational precedent for understanding Chilean media visibility prior to the 2019 rupture.
+- [[PDF_035_OSNABRUGGE_ETAL_2023]] - Establishes a legitimating precedent for the use of supervised learning methods in political science.
+- [[PDF_037_PALLISTER_2024]] - Serves as an analogue/precedent for Latin American campaign communication research.
+- [[PDF_044_WANG_2024]] - Establishes a legitimating precedent for the use of modern NLP methods in political science.
+- [[PDF_045_WIRSCHING_ETAL_2025]] - Provides multilingual word embeddings for social scientists, serving as a legitimating precedent for their use in political science.
+- [[PDF_066_LICHT_2022_cross-lingual_text_classification_OSF]] - Establishes a methodological precedent for the use of multilingual sentence embeddings in political science.
+
+## Gaps and Tensions
+The cluster literature fails to address the application of these methods to non-Western contexts, the impact of algorithmic changes on platform dynamics, and the generalizability of these findings to other political systems. There are also tensions between the use of supervised and unsupervised methods, as well as between the use of traditional statistical methods and modern NLP methods. Additionally, the literature lacks a focus on the interpretability of the latent dimensions of word embeddings and multilingual sentence embeddings in a political context.

@@ -1,0 +1,37 @@
+# Digital Capitalism and Platform Power
+
+## Cluster Definition
+Theorizes digital capitalism, platform power, data extraction, commodification of attention, and class/labor dynamics in platform-mediated politics (Fuchs' perspective).
+
+## Synthesis of Sources
+The theory of digital capitalism offered by various sources includes Marxist, Marxist-Feminist, psychoanalytic, and posthumanist perspectives. For instance, Christian Fuchs (2019) argues that digital capitalism is characterized by the exploitation of users' labor and data, while Joanna Boehnert (2019) offers a Marxist-Feminist theory that highlights the importance of emotional and reproductive labor in digital capitalism. Jodi Dean (2019) introduces the concept of "Communicative Capitalism," where digital platforms commodify communication and attention. These theories explain data extraction, commodification, governance, visibility, control, and political subject formation in different ways. For example, Fuchs (2019) explains data extraction as the objectification of digital labor, while Dean (2019) views it as the commodification of communication. The sources also highlight the importance of considering the political economy of digital technologies, the role of algorithms and data in shaping political subjectivity, and the need for a critical understanding of digital capitalism.
+
+The concept of platform power is also explored in various sources. For example, Paolo Gerbaudo (2019) introduces the concept of the "Platform Party," which refers to the transformation of political parties in the digital era. Anastasia Kavada (2019) critiques Gerbaudo's concept, arguing that the shift to platform parties is driven more by changes in the media environment than by economic determinism. These sources provide a nuanced understanding of platform power and its relationship to digital capitalism.
+
+The sources also discuss the mechanisms of data extraction, commodification, and governance in digital capitalism. For instance, Jack Qiu (2019) argues that digital objects and platforms are instruments of enslavement, while Paulina Tambakaki (2019) critiques the concept of "Communicative Capitalism" and argues that critique is insufficient for transforming socio-political configurations. These sources highlight the need for a deeper understanding of the power dynamics at play in digital capitalism and the importance of considering the political economy of digital technologies.
+
+Overall, the sources provide a comprehensive understanding of digital capitalism and platform power, highlighting the importance of considering the political economy of digital technologies, the role of algorithms and data in shaping political subjectivity, and the need for a critical understanding of digital capitalism.
+
+## Cross-References to Paper Notes
+- [[PDF_049_Boehnert-ContradictionsTwitterSocial-2019]] - Offers a Marxist-Feminist theory of digital capitalism, highlighting the importance of emotional and reproductive labor.
+- [[PDF_050_Brighi-BeyondRepression-2019]] - Introduces a psychoanalytic-Marxist theory of platform power, explaining governance of the self and political subject formation.
+- [[PDF_051_Chandler-DigitalGovernanceAnthropocene-2019]] - Offers a theory of digital capitalism, explaining the concept of the "Correlational Machine" and its implications for governance and control.
+- [[PDF_052_Chandler-StakeCritiqueBig-2019]] - Critiques Big Data capitalism, arguing that it represents the "apogee" of dehumanizing modernity and the "Enlightenment project."
+- [[PDF_053_Cowley-PosthumanismSpectrum-2019]] - Introduces the concept of posthumanism as a spectrum, highlighting the importance of considering the ontological implications of digital technologies.
+- [[PDF_054_Dean-CritiqueCollectivity-2019]] - Offers a theory of Communicative Capitalism, arguing that digital platforms commodify communication and attention.
+- [[PDF_057_Fuchs-AppropriationDigitalMachines-2019]] - Introduces a Marxist-Autonomist theory of digital capitalism, explaining the concept of appropriation of fixed capital and its implications for labor and subjectivity.
+- [[PDF_058_Fuchs-BeyondBigData-2019]] - Critiques Big Data capitalism, arguing that it is characterized by the exploitation of users' labor and data.
+- [[PDF_059_Fuchs-Introduction-2019]] - Introduces the concept of Big Data capitalism, highlighting the importance of considering the political economy of digital technologies.
+- [[PDF_060_Fuchs-KarlMarxAge-2019]] - Offers a Marxist-Historical Materialist theory of digital capitalism, explaining the concept of exploitation and its implications for labor and subjectivity.
+- [[PDF_061_Gerbaudo-PlatformParty-2019]] - Introduces the concept of the Platform Party, highlighting the transformation of political parties in the digital era.
+- [[PDF_062_Goodwin-WageWorkersSlaves-2019]] - Critiques the concept of "iSlavery," arguing that it is a form of exploitation that is similar to traditional slavery.
+- [[PDF_064_Jarrett-ReproductiveLens-2019]] - Offers a Marxist-Feminist theory of digital capitalism, highlighting the importance of reproductive labor and its implications for subjectivity.
+- [[PDF_065_Kavada-MovementParty-2019]] - Critiques the concept of the Platform Party, arguing that the shift to platform parties is driven more by changes in the media environment than by economic determinism.
+- [[PDF_067_Moore-EaffectivePrecarityControl-2019]] - Introduces the concept of "E(a)ffective Precarity," highlighting the importance of considering the emotional and psychological implications of digital capitalism.
+- [[PDF_068_Negri-AppropriationFixedCapital-2019]] - Offers a Marxist-Autonomist theory of digital capitalism, explaining the concept of appropriation of fixed capital and its implications for labor and subjectivity.
+- [[PDF_069_Qiu-GoodbyeiSlave-2019]] - Introduces the concept of "iSlavery," highlighting the importance of considering the exploitation of digital labor.
+- [[PDF_070_Rekret-SeeingLikeCyborg-2019]] - Critiques the concept of posthumanism, arguing that it is a form of "theoretical narcissism" that ignores the material implications of digital technologies.
+- [[PDF_072_Tambakaki-SubjectsContextsModes-2019]] - Offers a critical theory of digital capitalism, highlighting the importance of considering the political economy of digital technologies and the role of algorithms and data in shaping political subjectivity.
+
+## Gaps and Tensions
+The sources highlight several gaps and tensions in the literature on digital capitalism and platform power. For example, there is a tension between the concept of "Communicative Capitalism" and the idea of "iSlavery," which highlights the need for a more nuanced understanding of the power dynamics at play in digital capitalism. Additionally, there is a gap in the literature regarding the empirical implications of digital capitalism, which highlights the need for more empirical research on the topic. Furthermore, there is a tension between the concept of posthumanism and the idea of "theoretical narcissism," which highlights the need for a more critical understanding of the ontological implications of digital technologies. Overall, the sources highlight the need for a more comprehensive and nuanced understanding of digital capitalism and platform power, one that takes into account the complex power dynamics and ontological implications of digital technologies.

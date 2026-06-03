@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7df7c15ba084f23c",
+        "id": "c11fca014d0b8b24",
         "type": "tabs",
         "children": [
           {
-            "id": "1a2e9ceed6af9a46",
+            "id": "3f0cde47b066346e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_Project_Notes/02_ConceptualFramework.md",
-                "mode": "source",
-                "source": false
+                "file": "20_Project_Notes/03_Analyitical_Framework.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "02_ConceptualFramework"
+              "title": "03_Analyitical_Framework"
             }
           }
         ]
@@ -183,35 +183,36 @@
       "bases:Create new base": false
     }
   },
-  "active": "1a2e9ceed6af9a46",
+  "active": "3f0cde47b066346e",
   "lastOpenFiles": [
-    "20_Project_Notes/01_Introduction.md",
+    "20_Project_Notes/04_Data_Methods.md",
+    "81_Outputs/TEMPLATE_PROMPT_MODEL_CHOOSING.md",
+    "PDF_057_FUCHS_2019.md",
+    "81_Outputs/2026-06-02_Pass01_Repo_Audit.md",
+    "10_Literature/conceptual_framework_notes/CF06_Integrated_Analytical_Framework.md",
     "20_Project_Notes/02_ConceptualFramework.md",
-    "10_Literature/PDF_001_ALVAREZ-FUENTES_ETAL_2024.md",
-    "10_Literature/PDF_068_Negri-AppropriationFixedCapital-2019.md",
-    "10_Literature/PDF_070_Rekret-SeeingLikeCyborg-2019.md",
-    "10_Literature/PDF_072_Tambakaki-SubjectsContextsModes-2019.md",
-    "10_Literature/PDF_029_LUNA_ETAL_2022_CHILE.md",
-    "README.md",
+    "10_Literature/cluster_notes/NB07_Venue_Positioning_Precedents.md",
+    "10_Literature/cluster_notes/NB06_Digital_Capitalism_Platform_Power.md",
+    "10_Literature/cluster_notes/NB05_Ethics_Manipulation_Risk.md",
+    "10_Literature/cluster_notes/NB04_Chile_LatAm_Context.md",
+    "10_Literature/cluster_notes/NB03_Platformization_Digital_Politics.md",
+    "10_Literature/cluster_notes/NB01_Paid_Digital_Ads.md",
+    "10_Literature/cluster_notes/NB02_Topic_Modeling_Methods.md",
+    "10_Literature/conceptual_framework_notes/CF01_Microtargeting_As_Digital_Capitalism.md",
+    "10_Literature/conceptual_framework_notes/CF02_Methodological_Approach_Topic_Modeling.md",
+    "10_Literature/conceptual_framework_notes/CF03_Platformization_Of_Politics.md",
+    "10_Literature/conceptual_framework_notes/CF04_Democratic_Risk_Vs_Evidence.md",
+    "10_Literature/conceptual_framework_notes/CF05_Chile_2021_As_Constitutive_Context.md",
+    "10_Literature/papers/PDF_001_ALVAREZ-FUENTES_ETAL_2024.md",
+    "80_Prompts/PROMPT_06_Literature_Integration.md",
+    "10_Literature/papers",
+    "10_Literature/papers/literature_review_overview.md",
+    "20_Project_Notes/01_Introduction.md",
+    "20_Project_Notes/06_results_pipeline.md",
+    "20_Project_Notes/03_Analyitical_Framework.md",
+    "10_Literature/papers/PDF_068_Negri-AppropriationFixedCapital-2019.md",
+    "10_Literature/papers/PDF_070_Rekret-SeeingLikeCyborg-2019.md",
     "10_Literature/~$RA_NotebookLM_Obsidian_Registry.xlsx",
-    "10_Literature/PDF_069_Qiu-GoodbyeiSlave-2019.md",
-    "10_Literature/PDF_067_Moore-EaffectivePrecarityControl-2019.md",
-    "10_Literature/PDF_065_Kavada-MovementParty-2019.md",
-    "10_Literature/PDF_064_Jarrett-ReproductiveLens-2019.md",
-    "10_Literature/PDF_062_Goodwin-WageWorkersSlaves-2019.md",
-    "10_Literature/PDF_054_Dean-CritiqueCollectivity-2019.md",
-    "10_Literature/PDF_053_Cowley-PosthumanismSpectrum-2019.md",
-    "10_Literature/PDF_050_Brighi-BeyondRepression-2019.md",
-    "10_Literature/PDF_049_Boehnert-ContradictionsTwitterSocial-2019.md",
-    "10_Literature/PDF_047_ZHAO_ETAL_2024.md",
-    "10_Literature/PDF_046_YANG_ETAL_2023.md",
-    "10_Literature/PDF_042_UNULU_2024.md",
-    "10_Literature/PDF_041_THORSON_ETAL_2019.md",
-    "10_Literature/PDF_039_SCHMOKEL_ETAL_2022.md",
-    "10_Literature/PDF_038_PENUCCI_2024.md",
-    "10_Literature/PDF_036_PACHECO_2024.md",
-    "10_Literature/PDF_032_OLOF-LARSSON_2020.md",
-    "10_Literature/PDF_031_NICHOLS_ETAL_2020.md",
     "10_Literature/_legacy",
     "81_Outputs/2026-06-02_Pass05_PreFlight_Executed.md.3e4444dcc879.tmp",
     "81_Outputs/2026-06-02_PreFlight_Check.md.761ce823b97c.tmp",
@@ -219,7 +220,6 @@
     "10_Literature/4093C020",
     "10_Literature/C18FB020",
     "10_Literature/836FB020",
-    "10_Literature/864FB020",
-    "10_Literature/RA_NotebookLM_Obsidian_Registry - copia.xlsx"
+    "10_Literature/864FB020"
   ]
 }
