@@ -8,6 +8,7 @@ routing_api_key_env_var: TOGETHER_API_KEY
 routing_base_url: "https://api.together.ai/v1"
 ---
 
+
 # YAML Property Options
 
 This note uses flat YAML properties for Obsidian compatibility. The routing fields define whether the prompt is executed through a Python script using the Together API or through an agentic/chat-based workflow.

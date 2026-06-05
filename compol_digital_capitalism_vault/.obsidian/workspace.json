@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c11fca014d0b8b24",
+        "id": "086656c2e479c777",
         "type": "tabs",
         "children": [
           {
-            "id": "3f0cde47b066346e",
+            "id": "928d03648110417d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_Project_Notes/03_Analyitical_Framework.md",
-                "mode": "preview",
-                "source": true
+                "file": "30_Drafts/02_ConceptualFramework_First_Pass_Draft.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "03_Analyitical_Framework"
+              "title": "02_ConceptualFramework_First_Pass_Draft"
             }
           }
         ]
@@ -183,35 +183,36 @@
       "bases:Create new base": false
     }
   },
-  "active": "3f0cde47b066346e",
+  "active": "928d03648110417d",
   "lastOpenFiles": [
+    "30_Drafts/02_ConceptualFramework_Integrated_Detailed_Outline.md",
+    "10_Literature/conceptual_framework_notes/CF05_Chile_2021_As_Constitutive_Context.md",
+    "10_Literature/conceptual_framework_notes/CF02_Methodological_Approach_Topic_Modeling.md",
+    "20_Project_Notes/STRUCTURAL_Recs.md",
+    "CF05_Constitutive_Context_LatAm.md",
+    "Paper_Borgesius_2018.md",
+    "30_Drafts/02_ConceptualFramework_First_Pass_Draft_Act3.md",
+    "30_Drafts/02_ConceptualFramework_First_Pass_Draft_Act2.md",
+    "30_Drafts/02_ConceptualFramework_First_Pass_Draft_Act1.md",
+    "80_Prompts/PROMPT_03_CODE_GENERATION_PIPELINE.md",
+    "30_Drafts/02_ConceptualFramework_First_Pass_Draft.md",
+    "80_Prompts/Prompt_Writting_Pass4.md",
+    "80_Prompts/Prompt_Writting_Pass3.md",
+    "80_Prompts/Prompt_Writting_Pass2.md",
+    "80_Prompts/TEMPLATE_PROMPT_MODEL_CHOOSING.md",
+    "20_Project_Notes/02_ConceptualFramework.md",
+    "20_Project_Notes/03_Analyitical_Framework.md",
+    "80_Prompts/Execute_Codes_Terminal.md",
+    "80_Prompts/Literature_ExtractionPipeline_Prompt.md",
+    "21_Backups/Conceptual_Framework_v1.md",
+    "80_Prompts/Prompt_Writting_Pass1.md",
+    "21_Backups",
     "20_Project_Notes/04_Data_Methods.md",
-    "81_Outputs/TEMPLATE_PROMPT_MODEL_CHOOSING.md",
     "PDF_057_FUCHS_2019.md",
     "81_Outputs/2026-06-02_Pass01_Repo_Audit.md",
     "10_Literature/conceptual_framework_notes/CF06_Integrated_Analytical_Framework.md",
-    "20_Project_Notes/02_ConceptualFramework.md",
     "10_Literature/cluster_notes/NB07_Venue_Positioning_Precedents.md",
-    "10_Literature/cluster_notes/NB06_Digital_Capitalism_Platform_Power.md",
-    "10_Literature/cluster_notes/NB05_Ethics_Manipulation_Risk.md",
-    "10_Literature/cluster_notes/NB04_Chile_LatAm_Context.md",
-    "10_Literature/cluster_notes/NB03_Platformization_Digital_Politics.md",
-    "10_Literature/cluster_notes/NB01_Paid_Digital_Ads.md",
-    "10_Literature/cluster_notes/NB02_Topic_Modeling_Methods.md",
-    "10_Literature/conceptual_framework_notes/CF01_Microtargeting_As_Digital_Capitalism.md",
-    "10_Literature/conceptual_framework_notes/CF02_Methodological_Approach_Topic_Modeling.md",
-    "10_Literature/conceptual_framework_notes/CF03_Platformization_Of_Politics.md",
-    "10_Literature/conceptual_framework_notes/CF04_Democratic_Risk_Vs_Evidence.md",
-    "10_Literature/conceptual_framework_notes/CF05_Chile_2021_As_Constitutive_Context.md",
-    "10_Literature/papers/PDF_001_ALVAREZ-FUENTES_ETAL_2024.md",
-    "80_Prompts/PROMPT_06_Literature_Integration.md",
     "10_Literature/papers",
-    "10_Literature/papers/literature_review_overview.md",
-    "20_Project_Notes/01_Introduction.md",
-    "20_Project_Notes/06_results_pipeline.md",
-    "20_Project_Notes/03_Analyitical_Framework.md",
-    "10_Literature/papers/PDF_068_Negri-AppropriationFixedCapital-2019.md",
-    "10_Literature/papers/PDF_070_Rekret-SeeingLikeCyborg-2019.md",
     "10_Literature/~$RA_NotebookLM_Obsidian_Registry.xlsx",
     "10_Literature/_legacy",
     "81_Outputs/2026-06-02_Pass05_PreFlight_Executed.md.3e4444dcc879.tmp",
@@ -219,7 +220,6 @@
     "10_Literature/27C3C020",
     "10_Literature/4093C020",
     "10_Literature/C18FB020",
-    "10_Literature/836FB020",
-    "10_Literature/864FB020"
+    "10_Literature/836FB020"
   ]
 }
